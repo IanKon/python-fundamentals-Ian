@@ -5,7 +5,8 @@ string = "Some text"
 print(string.upper())
 
 ## indexing
-
+print(string[0])
+print(string[3])
 
 ## slice
 
@@ -16,4 +17,4 @@ print(string.upper())
 
 ## uppercase / lowercase / title / strip
 
-## find()
+## find()s
